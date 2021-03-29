@@ -4,3 +4,4 @@ output: pdf_document
 author: Yoon Young Lee, Guemin Kim
 ---
 
+Hi! This is a line to just communicate with Guemin! Cheking that collaboration works with Guemin via GitHub shared_repo
