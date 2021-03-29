@@ -7,3 +7,6 @@ author: Yoon Young Lee, Guemin Kim
 Hi! This is a line to just communicate with Guemin! Cheking that collaboration works with Guemin via GitHub shared_repo
 
 Here's a link to the repository: https://github.com/guemin-kim/shared_repo.git
+
+Thank you.
+-Yoon Young Lee & Guemin Kim
