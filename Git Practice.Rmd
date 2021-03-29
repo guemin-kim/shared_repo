@@ -1,0 +1,6 @@
+---
+title: "Git Practice"
+output: pdf_document
+author: Yoon Young Lee, Guemin Kim
+---
+
